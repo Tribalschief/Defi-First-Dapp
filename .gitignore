@@ -37,9 +37,10 @@ coverage
 coverage.json
 typechain
 typechain-types
-.env
-.env.local
+
 # Hardhat files
 cache
 
 
+.env
+.env.local
